@@ -1,0 +1,10 @@
+{
+  "version": "Robo",
+  "routingItems": [
+    {
+      "remarks": "Robo",
+      "domainStrategy": "IPOnDemand",
+      "url": "http://127.0.0.1:8000/all_except_ru.json"
+    }
+  ]
+}
