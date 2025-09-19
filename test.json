@@ -1,0 +1,17 @@
+[
+  {
+    "port":"",
+    "outboundTag":"direct",
+    "protocol":[
+      "bittorrent"
+    ],
+    "enabled":true,
+    "remarks":"\u0422\u043E\u0440\u0440\u0435\u043D\u0442 \u043D\u0430\u043F\u0440\u044F\u043C\u0443\u044E"
+  },
+  {
+    "port":"0-65535",
+    "outboundTag":"proxy",
+    "enabled":true,
+    "remarks":"\u041E\u0441\u0442\u0430\u043B\u044C\u043D\u043E\u0435 \u0432 \u043F\u0440\u043E\u043A\u0441\u0438"
+  }
+]
