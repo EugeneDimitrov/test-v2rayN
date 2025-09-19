@@ -4,7 +4,7 @@
     {
       "remarks": "Robo",
       "domainStrategy": "IPOnDemand",
-      "url": "http://127.0.0.1:8000/all_except_ru.json"
+      "url": "https://raw.githubusercontent.com/EugeneDimitrov/test-v2rayN/refs/heads/main/all_except_ru.json"
     }
   ]
 }
