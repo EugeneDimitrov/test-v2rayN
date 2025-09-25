@@ -33,14 +33,14 @@
   {
     "outboundTag":"proxy",
     "ip":[
-      "geoip:proxied"
+      "geoip:ru-blocked"
     ],
     "enabled":true
   },
   {
     "outboundTag":"proxy",
     "domain":[
-      "geosite:proxied"
+      "geosite:ru-blocked"
     ],
     "enabled":true
   },
