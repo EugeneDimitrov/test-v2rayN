@@ -7,20 +7,6 @@
     "enabled":true
   },
   {
-    "outboundTag":"direct",
-    "ip":[
-      "geoip:private"
-    ],
-    "enabled":true
-  },
-  {
-    "outboundTag":"direct",
-    "domain":[
-      "geosite:private"
-    ],
-    "enabled":true
-  },
-  {
     "outboundTag":"proxy",
     "ip":[
       "1.0.0.1",
